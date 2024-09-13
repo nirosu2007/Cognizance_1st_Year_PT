@@ -1,0 +1,3 @@
+create database Clubs;
+use Clubs;
+create TABLE Cognizance(Name varchar(255),Known_language varchar(255));

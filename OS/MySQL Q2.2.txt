@@ -1,0 +1,5 @@
+insert into Cognizance values("Rohith","Python");
+insert into Cognizance values("Santhosh","c");
+insert into Cognizance values("Vighranth","c++");
+insert into Cognizance values("Darun","Java");
+insert into Cognizance values("Deepak","PHP");
